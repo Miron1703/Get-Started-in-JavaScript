@@ -1,0 +1,42 @@
+header{
+  font-size: 12px;
+  color: azure;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  background-color: darkgreen;
+}
+
+body {
+  background-color: darkseagreen;
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+
+#trafficLight1 {
+    width: 100px;
+    height: 100px;
+    margin: 50px auto;
+    margin-bottom: 0;
+    border-radius: 50%;
+    background: black;
+  }
+
+#trafficLight2 {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: black;
+  }
+
+#trafficLight3 {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: black;
+  }
